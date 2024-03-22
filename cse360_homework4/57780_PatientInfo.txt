@@ -1,0 +1,6 @@
+First Name: Amelia
+Last Name: White
+Email: awhite@gmail.com
+Phone Number: 123112312
+Health History: A story
+Insurance ID: 1231231
